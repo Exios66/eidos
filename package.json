@@ -127,7 +127,7 @@
     "sort-by": "^1.2.0",
     "tailwindcss-animate": "^1.0.6",
     "utf-8-validate": "^6.0.3",
-    "uuid": "^9.0.0",
+    "uuid": "^14.0.0",
     "uuidv7": "^1.0.1",
     "vaul": "^0.8.0",
     "whisper-turbo": "workspace:*",
